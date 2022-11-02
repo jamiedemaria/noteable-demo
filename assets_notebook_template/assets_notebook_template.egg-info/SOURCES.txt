@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+assets_notebook_template/__init__.py
+assets_notebook_template/repository.py
+assets_notebook_template.egg-info/PKG-INFO
+assets_notebook_template.egg-info/SOURCES.txt
+assets_notebook_template.egg-info/dependency_links.txt
+assets_notebook_template.egg-info/requires.txt
+assets_notebook_template.egg-info/top_level.txt
+assets_notebook_template/assets/__init__.py
+assets_notebook_template/jobs/__init__.py

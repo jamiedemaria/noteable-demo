@@ -1,0 +1,10 @@
+dagster
+dagstermill
+papermill-origami
+pandas
+numpy
+sklearn
+
+[dev]
+dagit
+pytest
